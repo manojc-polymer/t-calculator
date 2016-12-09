@@ -1,23 +1,23 @@
 {
-    "name": "t-calculator",
-    "version": "0.0.0",
-    "main": "t-calculator.html",
-    "authors": [
-        "Manoj Chalode <chalodem@gmail.com>"
-    ],
-    "keywords": [
-        "web-components",
-        "polymer",
-        "javascript",
-        "html"
-    ],
-    "dependencies": {
-        "polymer": "Polymer/polymer#^1.4.0"
-    },
-    "devDependencies": {
-        "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-        "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
-        "web-component-tester": "^4.0.0",
-        "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
-    }
+  "name": "t-calculator",
+  "version": "1.0.0",
+  "main": "t-calculator.html",
+  "authors": [
+    "Manoj Chalode <chalodem@gmail.com>"
+  ],
+  "keywords": [
+    "web-components",
+    "polymer",
+    "javascript",
+    "html"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
 }
