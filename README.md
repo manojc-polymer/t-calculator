@@ -2,6 +2,23 @@
 
 
 
+## Install NodeJs
+
+Install NodeJs & npm to start working with polymer-cli
+
+## Install bower dependencies
+
+Install bower using following command
+
+```
+npm install -g bower
+```
+Install bower dependencies in your project by executing following commad in project root directory
+
+```
+bower install
+```
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
@@ -11,6 +28,9 @@ First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polyme
 ```
 $ polymer serve
 ```
+
+# \<Things to be done later\>
+
 
 ## Building Your Application
 
